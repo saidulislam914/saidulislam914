@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Saidul Islam
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Hi, i am Saidul Islam. I am a student. I also larn WebDevelopment. 
 
