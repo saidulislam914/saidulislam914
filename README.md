@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I am Saidul Islam
+#### Web Developer
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Hi, i am Saidul Islam. I am a student. I also larn WebDevelopment. 
+
+Skills: HTML/CSS/
+
+- 🔭 I’m currently working on this page. 
 
 
-**saidulislam914/saidulislam914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saidulislam914)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saidulislam914&show_icons=true)  
 
